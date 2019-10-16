@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Commercial
+comment0.text=\r\n\ This\ is\ a\ subclass\ of\ the\ vehicle\ class,\ it\ deals\ with\ data\ that\ is\ related\ to\ commercial\ vehicles\r\n\r\n\ @author\ Ricards\ Augustauskis\r\n\ Group\ 2\r\n
+comment1.params=
+comment1.target=Commercial()
+comment2.params=scan
+comment2.target=void\ readData(java.util.Scanner)
+comment3.params=
+comment3.target=void\ printDetails()
+comment4.params=
+comment4.target=int\ getPayload()
+numComments=5

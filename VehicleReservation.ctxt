@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=VehicleReservation
+comment0.text=\r\n\ This\ class\ is\ able\ to\ create\ a\ Vehicle\ Reservation,\ which\ includes\ the\ reservation\ number,\ the\ vehicles\ ID,\ the\ customers\ ID,\ the\ reservations\ start\ date\r\n\ and\ the\ number\ of\ days\ that\ the\ reservation\ will\ be\ held\ \ \r\n\r\n\ @author\ Ricards\ Augustauskis\r\n\ Group\ 2\r\n
+comment1.params=
+comment1.target=VehicleReservation()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=reservationNo\ vehID\ customerID\ startDate\ noOfDays
+comment2.target=VehicleReservation(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getReservationNo()
+comment4.params=
+comment4.target=java.lang.String\ getVehID()
+comment5.params=
+comment5.target=java.util.Date\ getStartDate()
+comment6.params=
+comment6.target=int\ getNoOfDays()
+comment7.params=
+comment7.target=void\ printDetails()
+comment8.params=pWriter
+comment8.target=void\ writeData(java.io.PrintWriter)
+comment9.params=scan
+comment9.target=void\ readData(java.util.Scanner)
+numComments=11

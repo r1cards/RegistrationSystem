@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ This\ is\ a\ subclass\ of\ the\ vehicle\ class,\ it\ deals\ with\ data\ that\ is\ related\ to\ cars\r\n\r\n\ @author\ Ricards\ Augustauskis\r\n\ Group\ 2\r\n
+comment1.params=
+comment1.target=Car()
+comment2.params=
+comment2.target=void\ printDetails()
+comment3.params=scan
+comment3.target=void\ readData(java.util.Scanner)
+comment4.params=
+comment4.target=java.lang.String\ getBodyType()
+comment5.params=
+comment5.target=int\ getNoOfDoors()
+comment6.params=
+comment6.target=int\ getNoOfSeats()
+numComments=7
